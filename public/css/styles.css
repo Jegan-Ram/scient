@@ -1,0 +1,28 @@
+.nav-bar{
+    height: 150px;
+    width: 100%;
+    background-color: #273746;
+}
+.nav{
+    position: absolute;
+    top: 110px;
+    left: 175px;
+}
+.nav-bar-element{
+    padding: 15px;
+    position: relative;
+}
+.nav-bar-element:hover{
+     background-color: #FCE243;
+}
+.active {
+    background-color: #2B5781 ;
+  }
+.nav-bar-element-content{
+    color: white;
+    text-decoration: none;
+}
+  
+#pic1{
+    padding: 10px;
+}

@@ -1,3 +1,6 @@
+body{
+ /* background-color: #263542;     */
+}
 .nav-bar{
     height: 150px;
     width: 100%;
@@ -25,4 +28,34 @@
   
 #pic1{
     padding: 10px;
+}
+
+.cards-row{
+    height: 270px;
+    width: 100%;
+    background-color: #90C9FF;
+}
+.card{
+    height: 250px;
+    width: 230px;
+    margin: 10px;
+    float: left;
+    background-color: #C4DDF4;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+    transition: 0.3s;
+    border-radius: 7px;
+}
+
+.card:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6);
+}
+.img1{
+    height: 200px;
+    width: 230px;
+    border-radius: 7px 7px 0 0;
+}
+.container{
+    position: relative;
+    bottom: 8px;
+    text-align: center;
 }

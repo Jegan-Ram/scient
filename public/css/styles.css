@@ -1,5 +1,5 @@
 body{
- /* background-color: #263542;     */
+ /* background-color: #549edf;  */
  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .nav-bar{
@@ -9,8 +9,8 @@ body{
 }
 .nav{
     position: absolute;
-    top: 100px;
-    left: 175px;
+    top: 10%;
+    left: 12%;
 }
 .nav-bar-element{
     padding: 15px;
